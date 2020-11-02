@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1604326117765,374,HTTP Request,200,OK,cc_echo_toolBox_mariafdj 1-1,text,true,,800,142,1,1,http://echo-serv.tbxnet.com/v1/echo?text=test,371,0,183
