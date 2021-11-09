@@ -47,6 +47,8 @@ You would see on the screen something like the picture below.
 
 ![image](https://i.imgur.com/0pHD8nB.png)
 
+![image](logoBH.jpg)
+
 
 To run the test
 You can click on the listener “View Results Tree” to appreciate the results in a clearer way, and then click on the green top button so the test can start.
